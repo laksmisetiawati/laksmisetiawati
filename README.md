@@ -5,7 +5,7 @@ Call me Laksmi or Ami ✨.
 
 ### A little about me:
 - 💬 Ask me about CATS, manga, anime, movie, fiction book and game
-- 📫 How to reach me: laksmise@gmail.com or [linkedin](https://www.linkedin.com/in/laksmi-setiawati/)
+- 📫 How to reach me: laksmise@gmail.com, [linkedin](https://www.linkedin.com/in/laksmi-setiawati/) or take a look at Ryu Amy's [Github](https://github.com/ryuamy)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I LOVE COFFEE ☕💕
 
