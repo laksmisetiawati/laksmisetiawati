@@ -11,7 +11,6 @@ I am a website developer from Indonesia.
 - ⚡ Fun fact: I LOVE COFFEE ☕💕
 
 <br>
-<br>
 
 ### Skill Set
 [<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](https://www.linkedin.com/in/laksmi-setiawati)
