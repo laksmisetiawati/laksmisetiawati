@@ -11,7 +11,6 @@ I am a website developer from Indonesia.
 - ⚡ Fun fact: I LOVE COFFEE ☕💕
 
 <br>
-<br>
 
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laksmi-setiawati)
