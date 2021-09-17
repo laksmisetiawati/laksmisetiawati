@@ -6,7 +6,7 @@ I am a website developer from Indonesia.
 
 ### A little about me:
 - 🔭 Working on multiple frontend and backend project using Laravel, Codeigniter and Wordpress
-- 📫 How to reach me: laksmise@gmail.com or take a look at Ryu Amy's [Github](https://github.com/ryuamy)
+- 📫 How to reach me: laksmise@gmail.com or take a look at Ryu Amy's [Github](https://github.com/ryuamy) (my another Github)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I LOVE COFFEE ☕💕
 
